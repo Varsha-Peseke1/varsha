@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+      @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+svg{
+	float: right;
+	height: 30px;
+	width: 30px;
+	right: 0px;
+	padding-right: 10px;
+	text-align-last: 10px;
+	text-align: right;
+}
+.head{ position:fixed; width:100%; left:0; z-index:10; height: 70px;}
+.eye{ font-style: italic;font-size: 40px; color: white!important; text-decoration: none;}
+.teeth{background-color: #61876E}
+.fin{ background-color: black; color: white; border-radius: 20px;}
+.legs{height: 200px; width: 200px; padding-top: 60px; padding-left: 10px; padding-right: 10px; padding-bottom: 30px; border-radius: 20px!important;}
+.ears{font-size: 15px; left: -90px; margin: 15px 20px 40px -50px; color: white!important; text-decoration: none;}
+.css{
+	height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-self: auto auto;
+  padding: 100px;
+}
+.innov{
+  display: flex;
+  justify-content: space-around;
+  align-self: auto auto;
+  background-color: #D989B5;
+}
+.bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+       
+       .navigation-wrap .nav-item{
+  padding:0 0.625rem;
+  
+}
+.navigation-wrap.scroll-on{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100%;
+  background:var(--white-color);
+  box-shadow: 0 0.125rem 1.75rem 0 rgb(0,0,0,0.09);
+  transition:all .15s ease-in-out 0s;
+}
+.cards{
+	margin-top: 150px;
+  background-color: #82AAE3; 
+	display: flex;
+	justify-content: center;
+  max-height: 1000px;
+	align-self: auto auto auto;
+}
+.pain{background-color: black;}
+.big{ background-color: #FFB26B;}
+.hands{padding-right: 20px; padding-top: 20px; padding-left: 20px; padding-bottom: 20px;display: flex; justify-content: space-around;}
+.alt{ height: 900px; width: 500px; display: flex; background-color: #A0C3D2;padding: 40px; justify-content: space-around;}
+.fingers{ width: 18rem; background-color: #03001C; display: inline-flex;justify-content: space-around;}
+.nails{ align-self: center; padding-top: 20px; padding-bottom: 20px; border-radius: 10px; padding-left: 30px; padding-right: 30px;}
+.hhss{ background-color: #678983; color: white;}
+.abc{ height: 200px; width: 180px; padding-bottom: 30px; padding-top: 30px; padding-left: 20px; padding-right: 20px; border-radius: 10px;}
+.dem{ max-width: 540px; background-color: #282A3A; color: white;}
+.hairs{ background-color: #F5D5AE}
+.paint{ background-color: #D6D5A8;}
+.zee{ width: 18rem; background-color: #BDCDD6; align-items: center;}
+.maa{background-color: #C27664; display: inline-flex;justify-content: space-around;}
+.xyz{ display: flex; height: 250px; width: 250px; padding-top: 20px;  padding-left: 50px; padding-right: 20px; border-radius: 10px; padding-bottom: 20px;"}
+
